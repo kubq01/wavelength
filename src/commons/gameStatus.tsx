@@ -1,0 +1,1 @@
+export type GameStatus = "NEW_GAME" | "SHOW_SELECTOR" | "GUESS" | "CHECK"
